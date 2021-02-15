@@ -1,0 +1,11 @@
+
+The default interactive shell is now zsh.
+To update your account to use zsh, please run `chsh -s /bin/zsh`.
+For more details, please visit https://support.apple.com/kb/HT208050.
+]0;~/Desktop/datasciencecoursera[?1034hAdnans-MacBook-Pro-2:datasciencecoursera adnansharif$ [KAdnans-MacBook-Pro-2:datasciencecoursera adnansharif$ [KAdnans-MacBook-Pro-2:datasciencecoursera adnansharif$ cd HelloWorld.md[K[K[K[K[K[K[K[K[K[K[K[K[K~Dest[Ktop[K[K[Kktop/datas ciencecoursera
+bash: cd: ~Desktop/datasciencecoursera: No such file or directory
+]0;~/Desktop/datasciencecourseraAdnans-MacBook-Pro-2:datasciencecoursera adnansharif$ cd ~Desktop/datas ciencecoursera[K[K[K[K[K[K[K[K[K[K[K[K[K[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K[K[K[K[K[K[K[K[K[K[K[K/Desktop/data sciencecoursera
+]0;~/Desktop/datasciencecourseraAdnans-MacBook-Pro-2:datasciencecoursera adnansharif$ git int[Kit
+Reinitialized existing Git repository in /Users/adnansharif/Desktop/datasciencecoursera/.git/
+]0;~/Desktop/datasciencecourseraAdnans-MacBook-Pro-2:datasciencecoursera adnansharif$ git add .
